@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8e3aac85-e66d-4685-b019-00f8987da706" />🌾 AI-Powered Farmer Advisory and Crop Price Forecasting System
+ 🌾AI-Powered Farmer Advisory and Crop Price Forecasting System
 
 📖 Overview
 Agriculture remains a primary source of livelihood in many developing nations. Farmers often face challenges such as unpredictable weather conditions, pest infestations, crop diseases, soil degradation, and fluctuating market prices. These challenges can lead to poor decision-making, reduced crop yields, and financial losses.
